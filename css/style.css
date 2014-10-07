@@ -39,6 +39,11 @@ ul.nav {
 	float: right;
 }
 
+ul.nav li {
+	float: left;
+	margin-right: 40px;
+}
+
 
 
 
